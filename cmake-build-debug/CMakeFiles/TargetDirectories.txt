@@ -1,0 +1,4 @@
+/home/george/Desktop/University/2_Course/Programming/Homeworks/HomeWork2/cmake-build-debug/CMakeFiles/Lib.dir
+/home/george/Desktop/University/2_Course/Programming/Homeworks/HomeWork2/cmake-build-debug/CMakeFiles/main.dir
+/home/george/Desktop/University/2_Course/Programming/Homeworks/HomeWork2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/george/Desktop/University/2_Course/Programming/Homeworks/HomeWork2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
